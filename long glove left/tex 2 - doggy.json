@@ -1,0 +1,119 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 2 - doggy_texturec_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                
+                {
+                    "Name": "AttachArmLHand",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 0,
+                        "width": 118,
+                        "height": 94
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texturec_layer0.png",
+            "Layer": 9,
+            "PackedDrawables": [
+                
+                {
+                    "Name": "AttachArmLHand",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 0,
+                        "width": 118,
+                        "height": 94
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texturec_layer1.png",
+            "Layer": 10,
+            "PackedDrawables": [
+                
+                {
+                    "Name": "AttachArmLHand",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 0,
+                        "width": 118,
+                        "height": 94
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texturec_layer2.png",
+            "Layer": 11,
+            "PackedDrawables": [
+                
+                {
+                    "Name": "AttachArmLHand",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 0,
+                        "width": 118,
+                        "height": 94
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+         {
+            "TextureName": "tex 2 - doggy_texturec_layer3.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                
+                {
+                    "Name": "AttachArmLHand",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 0,
+                        "width": 118,
+                        "height": 94
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

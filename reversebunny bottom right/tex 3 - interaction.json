@@ -1,0 +1,456 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 3 - interaction_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 306,
+                        "height": 923
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRThigh",
+                    "RectInt": {
+                        "x": 321,
+                        "y": 5,
+                        "width": 372,
+                        "height": 485
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFeet",
+                    "RectInt": {
+                        "x": 321,
+                        "y": 500,
+                        "width": 257,
+                        "height": 414
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRKnee",
+                    "RectInt": {
+                        "x": 588,
+                        "y": 500,
+                        "width": 157,
+                        "height": 256
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighR",
+                    "RectInt": {
+                        "x": 748,
+                        "y": 1,
+                        "width": 427,
+                        "height": 590
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+                
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 3 - interaction_texture0_layer0.png",
+            "Layer": 5,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 306,
+                        "height": 923
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRThigh",
+                    "RectInt": {
+                        "x": 321,
+                        "y": 5,
+                        "width": 372,
+                        "height": 485
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFeet",
+                    "RectInt": {
+                        "x": 321,
+                        "y": 500,
+                        "width": 257,
+                        "height": 414
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRKnee",
+                    "RectInt": {
+                        "x": 588,
+                        "y": 500,
+                        "width": 157,
+                        "height": 256
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighR",
+                    "RectInt": {
+                        "x": 748,
+                        "y": 1,
+                        "width": 427,
+                        "height": 590
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 748,
+                        "y": 597,
+                        "width": 682,
+                        "height": 366
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                
+                {
+                    "Name": "SkinButtL",
+                    "RectInt": {
+                        "x": 1174,
+                        "y": 1,
+                        "width": 238,
+                        "height": 373
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 3 - interaction_texture0_layer1.png",
+            "Layer": 6,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 306,
+                        "height": 923
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRThigh",
+                    "RectInt": {
+                        "x": 321,
+                        "y": 5,
+                        "width": 372,
+                        "height": 485
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFeet",
+                    "RectInt": {
+                        "x": 321,
+                        "y": 500,
+                        "width": 257,
+                        "height": 414
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRKnee",
+                    "RectInt": {
+                        "x": 588,
+                        "y": 500,
+                        "width": 157,
+                        "height": 256
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighR",
+                    "RectInt": {
+                        "x": 748,
+                        "y": 1,
+                        "width": 427,
+                        "height": 590
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 748,
+                        "y": 597,
+                        "width": 682,
+                        "height": 366
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                
+                {
+                    "Name": "SkinButtL",
+                    "RectInt": {
+                        "x": 1174,
+                        "y": 1,
+                        "width": 238,
+                        "height": 373
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+{
+            "TextureName": "tex 3 - interaction_texture0_layer2.png",
+            "Layer": 7,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 306,
+                        "height": 923
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRThigh",
+                    "RectInt": {
+                        "x": 321,
+                        "y": 5,
+                        "width": 372,
+                        "height": 485
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFeet",
+                    "RectInt": {
+                        "x": 321,
+                        "y": 500,
+                        "width": 257,
+                        "height": 414
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRKnee",
+                    "RectInt": {
+                        "x": 588,
+                        "y": 500,
+                        "width": 157,
+                        "height": 256
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighR",
+                    "RectInt": {
+                        "x": 748,
+                        "y": 1,
+                        "width": 427,
+                        "height": 590
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 748,
+                        "y": 597,
+                        "width": 682,
+                        "height": 366
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                
+                {
+                    "Name": "SkinButtL",
+                    "RectInt": {
+                        "x": 1174,
+                        "y": 1,
+                        "width": 238,
+                        "height": 373
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 3 - interaction_texture0_layer3.png",
+            "Layer": 8,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 306,
+                        "height": 923
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRThigh",
+                    "RectInt": {
+                        "x": 321,
+                        "y": 5,
+                        "width": 372,
+                        "height": 485
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFeet",
+                    "RectInt": {
+                        "x": 321,
+                        "y": 500,
+                        "width": 257,
+                        "height": 414
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRKnee",
+                    "RectInt": {
+                        "x": 588,
+                        "y": 500,
+                        "width": 157,
+                        "height": 256
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighR",
+                    "RectInt": {
+                        "x": 748,
+                        "y": 1,
+                        "width": 427,
+                        "height": 590
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 748,
+                        "y": 597,
+                        "width": 682,
+                        "height": 366
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                
+                {
+                    "Name": "SkinButtL",
+                    "RectInt": {
+                        "x": 1174,
+                        "y": 1,
+                        "width": 238,
+                        "height": 373
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+        
+    ]
+}

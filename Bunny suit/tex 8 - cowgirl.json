@@ -1,0 +1,284 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 8 - cowgirl_texture0_layer0.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 708,
+                        "height": 370
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaist",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 385,
+                        "width": 551,
+                        "height": 574
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 566,
+                        "y": 385,
+                        "width": 464,
+                        "height": 534
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },                
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 566,
+                        "y": 929,
+                        "width": 275,
+                        "height": 266
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 851,
+                        "y": 929,
+                        "width": 274,
+                        "height": 264
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 8 - cowgirl_texture0_layer1.png",
+            "Layer": 13,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 708,
+                        "height": 370
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaist",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 385,
+                        "width": 551,
+                        "height": 574
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 566,
+                        "y": 385,
+                        "width": 464,
+                        "height": 534
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },                
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 566,
+                        "y": 929,
+                        "width": 275,
+                        "height": 266
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 851,
+                        "y": 929,
+                        "width": 274,
+                        "height": 264
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 8 - cowgirl_texture0_layer2.png",
+            "Layer": 14,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 708,
+                        "height": 370
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaist",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 385,
+                        "width": 551,
+                        "height": 574
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 566,
+                        "y": 385,
+                        "width": 464,
+                        "height": 534
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },                
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 566,
+                        "y": 929,
+                        "width": 275,
+                        "height": 266
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 851,
+                        "y": 929,
+                        "width": 274,
+                        "height": 264
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 8 - cowgirl_texture0_layer3.png",
+            "Layer": 15,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 708,
+                        "height": 370
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaist",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 385,
+                        "width": 551,
+                        "height": 574
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 566,
+                        "y": 385,
+                        "width": 464,
+                        "height": 534
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },                
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 566,
+                        "y": 929,
+                        "width": 275,
+                        "height": 266
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 851,
+                        "y": 929,
+                        "width": 274,
+                        "height": 264
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

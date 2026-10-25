@@ -1,0 +1,499 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 2 - doggy_texturec_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 405,
+                        "y": 133,
+                        "width": 166,
+                        "height": 146
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 458,
+                        "y": 0,
+                        "width": 102,
+                        "height": 134
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand",
+                    "RectInt": {
+                        "x": 339,
+                        "y": 0,
+                        "width": 120,
+                        "height": 98
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                
+                {
+                    "Name": "AttachArmLHand",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 0,
+                        "width": 118,
+                        "height": 94
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmUpper_Front",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 97,
+                        "width": 184,
+                        "height": 174
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texturec_layer0.png",
+            "Layer": 5,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 405,
+                        "y": 133,
+                        "width": 166,
+                        "height": 146
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 458,
+                        "y": 0,
+                        "width": 102,
+                        "height": 134
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand",
+                    "RectInt": {
+                        "x": 339,
+                        "y": 0,
+                        "width": 120,
+                        "height": 98
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 270,
+                        "width": 240,
+                        "height": 267
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 223,
+                        "height": 251
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                 {
+                    "Name": "SkinArmUpper_Front",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 97,
+                        "width": 184,
+                        "height": 174
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulder",
+                    "RectInt": {
+                        "x": 239,
+                        "y": 278,
+                        "width": 204,
+                        "height": 152
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 0,
+                        "width": 118,
+                        "height": 94
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texturec_layer1.png",
+            "Layer": 6,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 405,
+                        "y": 133,
+                        "width": 166,
+                        "height": 146
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 458,
+                        "y": 0,
+                        "width": 102,
+                        "height": 134
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand",
+                    "RectInt": {
+                        "x": 339,
+                        "y": 0,
+                        "width": 120,
+                        "height": 98
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 270,
+                        "width": 240,
+                        "height": 267
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 223,
+                        "height": 251
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                 {
+                    "Name": "SkinArmUpper_Front",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 97,
+                        "width": 184,
+                        "height": 174
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulder",
+                    "RectInt": {
+                        "x": 239,
+                        "y": 278,
+                        "width": 204,
+                        "height": 152
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 0,
+                        "width": 118,
+                        "height": 94
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texturec_layer2.png",
+            "Layer": 7,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 405,
+                        "y": 133,
+                        "width": 166,
+                        "height": 146
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 458,
+                        "y": 0,
+                        "width": 102,
+                        "height": 134
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand",
+                    "RectInt": {
+                        "x": 339,
+                        "y": 0,
+                        "width": 120,
+                        "height": 98
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 270,
+                        "width": 240,
+                        "height": 267
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 223,
+                        "height": 251
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                 {
+                    "Name": "SkinArmUpper_Front",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 97,
+                        "width": 184,
+                        "height": 174
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulder",
+                    "RectInt": {
+                        "x": 239,
+                        "y": 278,
+                        "width": 204,
+                        "height": 152
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 0,
+                        "width": 118,
+                        "height": 94
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+         {
+            "TextureName": "tex 2 - doggy_texturec_layer3.png",
+            "Layer": 8,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 405,
+                        "y": 133,
+                        "width": 166,
+                        "height": 146
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 458,
+                        "y": 0,
+                        "width": 102,
+                        "height": 134
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand",
+                    "RectInt": {
+                        "x": 339,
+                        "y": 0,
+                        "width": 120,
+                        "height": 98
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 270,
+                        "width": 240,
+                        "height": 267
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 223,
+                        "height": 251
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                 {
+                    "Name": "SkinArmUpper_Front",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 97,
+                        "width": 184,
+                        "height": 174
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulder",
+                    "RectInt": {
+                        "x": 239,
+                        "y": 278,
+                        "width": 204,
+                        "height": 152
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand",
+                    "RectInt": {
+                        "x": 222,
+                        "y": 0,
+                        "width": 118,
+                        "height": 94
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

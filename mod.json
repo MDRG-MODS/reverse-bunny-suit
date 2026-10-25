@@ -1,0 +1,20 @@
+{
+    "name": "reverse bunny suit",
+    "description": "Put your mod's description here",
+    "modVersion": "1.2.0",
+    "OnGameStart": {
+        "luaFiles": [
+            "script.lua"
+        ]
+    },
+    "targetVersion": "0.96.7",
+    "languageCode": "en",
+    "doNotChangeVariablesBelowThis": {
+        "timeCreated": 639218741644748343,
+        "guid": {
+            "serializedGuid": "70dbddab-fb7d-4dc6-b9bc-5374b32c3728"
+        
+    
+        }
+    }
+}

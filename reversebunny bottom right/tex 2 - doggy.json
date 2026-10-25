@@ -1,0 +1,331 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 249,
+                        "width": 385,
+                        "height": 164
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 423,
+                        "width": 215,
+                        "height": 272
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFoot",
+                    "RectInt": {
+                        "x": 230,
+                        "y": 423,
+                        "width": 258,
+                        "height": 164
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer0.png",
+            "Layer": 5,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 249,
+                        "width": 385,
+                        "height": 164
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 423,
+                        "width": 215,
+                        "height": 272
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFoot",
+                    "RectInt": {
+                        "x": 230,
+                        "y": 423,
+                        "width": 258,
+                        "height": 164
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighFront",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 7,
+                        "width": 242,
+                        "height": 254
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinButt",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 7,
+                        "width": 244,
+                        "height": 223
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer1.png",
+            "Layer": 6,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 249,
+                        "width": 385,
+                        "height": 164
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 423,
+                        "width": 215,
+                        "height": 272
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFoot",
+                    "RectInt": {
+                        "x": 230,
+                        "y": 423,
+                        "width": 258,
+                        "height": 164
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighFront",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 7,
+                        "width": 242,
+                        "height": 254
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinButt",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 7,
+                        "width": 244,
+                        "height": 223
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer2.png",
+            "Layer": 7,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 249,
+                        "width": 385,
+                        "height": 164
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 423,
+                        "width": 215,
+                        "height": 272
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFoot",
+                    "RectInt": {
+                        "x": 230,
+                        "y": 423,
+                        "width": 258,
+                        "height": 164
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighFront",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 7,
+                        "width": 242,
+                        "height": 254
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinButt",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 7,
+                        "width": 244,
+                        "height": 223
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - doggy_texture0_layer3.png",
+            "Layer": 8,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRLower",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 249,
+                        "width": 385,
+                        "height": 164
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 423,
+                        "width": 215,
+                        "height": 272
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFoot",
+                    "RectInt": {
+                        "x": 230,
+                        "y": 423,
+                        "width": 258,
+                        "height": 164
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinThighFront",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 7,
+                        "width": 242,
+                        "height": 254
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinButt",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 7,
+                        "width": 244,
+                        "height": 223
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}
+

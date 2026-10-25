@@ -1,0 +1,230 @@
+{
+    "TargetModVersion": "1.0.0",
+    "TargetModGuid": {
+        "serializedGuid": "59366a3b-02ad-4d49-97c2-3724341ccc3f"
+    },
+    "LocaleKeyCode": "zh-Hans",
+    "ShortNotes": "",
+    "TranslationRows": [
+        {
+            "Key": "Item_0_Name",
+            "DefaultString": "Latex bunny ears",
+            "TranslatedString": "乳胶兔女郎耳朵"
+        },
+        {
+            "Key": "Item_0_Description",
+            "DefaultString": "Part of the bunny costume",
+            "TranslatedString": "兔女郎装的一部分（没有它怎么称之为兔女郎？）"
+        },
+        {
+            "Key": "Item_0_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_0_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "阴影/高光反射"
+        },
+        {
+            "Key": "Item_0_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "服装外轮廓线"
+        },
+        {
+            "Key": "Item_1_Name",
+            "DefaultString": "Detached Collar",
+            "TranslatedString": "独立衣领"
+        },
+        {
+            "Key": "Item_1_Description",
+            "DefaultString": "Part of the bunny costume",
+            "TranslatedString": "兔女郎装的一部分"
+        },
+        {
+            "Key": "Item_1_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_1_Color+1",
+            "DefaultString": "Buttons",
+            "TranslatedString": "纽扣"
+        },
+        {
+            "Key": "Item_2_Name",
+            "DefaultString": "Heart maebari",
+            "TranslatedString": "心形遮阴贴"
+        },
+        {
+            "Key": "Item_2_Description",
+            "DefaultString": "Part of the bunny costume",
+            "TranslatedString": "兔女郎装的一部分"
+        },
+        {
+            "Key": "Item_2_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_2_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "阴影/高光反射"
+        },
+        {
+            "Key": "Item_2_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "服装外轮廓线"
+        },
+        {
+            "Key": "Item_3_Name",
+            "DefaultString": "Heart pasties",
+            "TranslatedString": "心形乳贴"
+        },
+        {
+            "Key": "Item_3_Description",
+            "DefaultString": "Part of the bunny costume",
+            "TranslatedString": "兔女郎装的一部分"
+        },
+        {
+            "Key": "Item_3_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_3_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "阴影/高光反射"
+        },
+        {
+            "Key": "Item_3_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "服装外轮廓线"
+        },
+        {
+            "Key": "Item_4_Name",
+            "DefaultString": "Left wrist bunny cuff",
+            "TranslatedString": "左腕兔女郎袖口"
+        },
+        {
+            "Key": "Item_4_Description",
+            "DefaultString": "part of the bunny outfit",
+            "TranslatedString": "兔女郎装的一部分"
+        },
+        {
+            "Key": "Item_4_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_4_Color+1",
+            "DefaultString": "Buttons",
+            "TranslatedString": "纽扣"
+        },
+        {
+            "Key": "Item_5_Name",
+            "DefaultString": "Right wrist bunny cuff",
+            "TranslatedString": "右腕兔女郎袖口"
+        },
+        {
+            "Key": "Item_5_Description",
+            "DefaultString": "part of the bunny outfit",
+            "TranslatedString": "兔女郎装的一部分"
+        },
+        {
+            "Key": "Item_5_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_5_Color+1",
+            "DefaultString": "Buttons",
+            "TranslatedString": "纽扣"
+        },
+        {
+            "Key": "Item_6_Name",
+            "DefaultString": "Latex Bowtie",
+            "TranslatedString": "乳胶蝴蝶结"
+        },
+        {
+            "Key": "Item_6_Description",
+            "DefaultString": "Part of the bunny costume",
+            "TranslatedString": "兔女郎装的一部分"
+        },
+        {
+            "Key": "Item_6_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_6_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "阴影/高光反射"
+        },
+        {
+            "Key": "Item_6_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "服装外轮廓线"
+        },
+        {
+            "Key": "Item_7_Name",
+            "DefaultString": "Bunny tail",
+            "TranslatedString": "兔尾巴"
+        },
+        {
+            "Key": "Item_7_Description",
+            "DefaultString": "its there trust me...",
+            "TranslatedString": "兔尾就是戴在那儿的，真的，信我..."
+        },
+        {
+            "Key": "Item_7_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_8_Name",
+            "DefaultString": "Reverse bunny collar and cufs",
+            "TranslatedString": "逆兔女郎衣领和袖口"
+        },
+        {
+            "Key": "Item_8_Description",
+            "DefaultString": "full set<color=#00FF00>\nThis item is still in its packaging. You have to unpack it first!</color>",
+            "TranslatedString": "全套衣领＋袖口<color=#00FF00>\n该物品仍在包装中。你需要先拆开包装！</color>"
+        },
+        {
+            "Key": "Item_8_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主颜色"
+        },
+        {
+            "Key": "Item_8_Color+1",
+            "DefaultString": "Buttons",
+            "TranslatedString": "纽扣"
+        },
+        {
+            "Key": "Item_9_Name",
+            "DefaultString": "Reverse bunny  latex accessories",
+            "TranslatedString": "逆兔女郎乳胶材质配饰"
+        },
+        {
+            "Key": "Item_9_Description",
+            "DefaultString": "full set<color=#00FF00>\nThis item is still in its packaging. You have to unpack it first!</color>",
+            "TranslatedString": "全套<color=#00FF00>\n该物品仍在包装中。你需要先拆开包装！</color>"
+        },
+        {
+            "Key": "Item_9_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "主要颜色"
+        },
+        {
+            "Key": "Item_9_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "阴影/高光反射"
+        },
+        {
+            "Key": "Item_9_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "服装外轮廓线"
+        }
+    ]
+}

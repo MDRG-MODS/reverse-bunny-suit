@@ -1,0 +1,283 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 1 - missionary_texture0_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 293,
+                        "height": 674
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRBack",
+                    "RectInt": {
+                        "x": 308,
+                        "y": 5,
+                        "width": 542,
+                        "height": 370
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFoot",
+                    "RectInt": {
+                        "x": 308,
+                        "y": 385,
+                        "width": 221,
+                        "height": 434
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+                
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+         {
+            "TextureName": "tex 1 - missionary_texture0_layer0.png",
+            "Layer": 9,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 293,
+                        "height": 674
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRBack",
+                    "RectInt": {
+                        "x": 308,
+                        "y": 5,
+                        "width": 542,
+                        "height": 370
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFoot",
+                    "RectInt": {
+                        "x": 308,
+                        "y": 385,
+                        "width": 221,
+                        "height": 434
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLegRFront",
+                    "RectInt": {
+                        "x": 851,
+                        "y": 52, 
+                        "width": 390,
+                        "height": 380
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 1 - missionary_texture0_layer1.png",
+            "Layer": 10,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 293,
+                        "height": 674
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRBack",
+                    "RectInt": {
+                        "x": 308,
+                        "y": 5,
+                        "width": 542,
+                        "height": 370
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFoot",
+                    "RectInt": {
+                        "x": 308,
+                        "y": 385,
+                        "width": 221,
+                        "height": 434
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLegRFront",
+                    "RectInt": {
+                        "x": 851,
+                        "y": 52, 
+                        "width": 390,
+                        "height": 380
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 1 - missionary_texture0_layer2.png",
+            "Layer": 11,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 293,
+                        "height": 674
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRBack",
+                    "RectInt": {
+                        "x": 308,
+                        "y": 5,
+                        "width": 542,
+                        "height": 370
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFoot",
+                    "RectInt": {
+                        "x": 308,
+                        "y": 385,
+                        "width": 221,
+                        "height": 434
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLegRFront",
+                    "RectInt": {
+                        "x": 851,
+                        "y": 52, 
+                        "width": 390,
+                        "height": 380
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+          {
+            "TextureName": "tex 1 - missionary_texture0_layer3.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                {
+                    "Name": "AttachLegRFront",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 293,
+                        "height": 674
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRBack",
+                    "RectInt": {
+                        "x": 308,
+                        "y": 5,
+                        "width": 542,
+                        "height": 370
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachLegRFoot",
+                    "RectInt": {
+                        "x": 308,
+                        "y": 385,
+                        "width": 221,
+                        "height": 434
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinLegRFront",
+                    "RectInt": {
+                        "x": 851,
+                        "y": 52, 
+                        "width": 390,
+                        "height": 380
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

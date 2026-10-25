@@ -1,0 +1,476 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 5 - missionary_texture0_layer0.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinTorsoUpper",
+                    "RectInt": {
+                        "x": 41,
+                        "y": 496,
+                        "width": 321,
+                        "height": 313
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinTorsoLower",
+                    "RectInt": {
+                        "x": 6,
+                        "y": 195,
+                        "width": 381,
+                        "height": 288
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 438,
+                        "y": 12,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaPenetratedBack",
+                    "RectInt": {
+                        "x": 396,
+                        "y": 328,
+                        "width": 181,
+                        "height": 176
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaR",
+                    "RectInt": {
+                        "x": 396,
+                        "y": 514,
+                        "width": 94,
+                        "height": 163
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 500,
+                        "y": 514,
+                        "width": 180,
+                        "height": 160
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 587,
+                        "y": 328,
+                        "width": 185,
+                        "height": 154
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageBack",
+                    "RectInt": {
+                        "x": 25,
+                        "y": 19,
+                        "width": 257,
+                        "height": 152
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaPenetratedFront",
+                    "RectInt": {
+                        "x": 500,
+                        "y": 684,
+                        "width": 179,
+                        "height": 148
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 5 - missionary_texture0_layer1.png",
+            "Layer": 13,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinTorsoUpper",
+                    "RectInt": {
+                        "x": 41,
+                        "y": 496,
+                        "width": 321,
+                        "height": 313
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinTorsoLower",
+                    "RectInt": {
+                        "x": 6,
+                        "y": 195,
+                        "width": 381,
+                        "height": 288
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 438,
+                        "y": 12,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaPenetratedBack",
+                    "RectInt": {
+                        "x": 396,
+                        "y": 328,
+                        "width": 181,
+                        "height": 176
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaR",
+                    "RectInt": {
+                        "x": 396,
+                        "y": 514,
+                        "width": 94,
+                        "height": 163
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 500,
+                        "y": 514,
+                        "width": 180,
+                        "height": 160
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 587,
+                        "y": 328,
+                        "width": 185,
+                        "height": 154
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageBack",
+                    "RectInt": {
+                        "x": 25,
+                        "y": 19,
+                        "width": 257,
+                        "height": 152
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaPenetratedFront",
+                    "RectInt": {
+                        "x": 500,
+                        "y": 684,
+                        "width": 179,
+                        "height": 148
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 5 - missionary_texture0_layer2.png",
+            "Layer": 14,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinTorsoUpper",
+                    "RectInt": {
+                        "x": 41,
+                        "y": 496,
+                        "width": 321,
+                        "height": 313
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinTorsoLower",
+                    "RectInt": {
+                        "x": 6,
+                        "y": 195,
+                        "width": 381,
+                        "height": 288
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 438,
+                        "y": 12,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaPenetratedBack",
+                    "RectInt": {
+                        "x": 396,
+                        "y": 328,
+                        "width": 181,
+                        "height": 176
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaR",
+                    "RectInt": {
+                        "x": 396,
+                        "y": 514,
+                        "width": 94,
+                        "height": 163
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 500,
+                        "y": 514,
+                        "width": 180,
+                        "height": 160
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 587,
+                        "y": 328,
+                        "width": 185,
+                        "height": 154
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageBack",
+                    "RectInt": {
+                        "x": 25,
+                        "y": 19,
+                        "width": 257,
+                        "height": 152
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaPenetratedFront",
+                    "RectInt": {
+                        "x": 500,
+                        "y": 684,
+                        "width": 179,
+                        "height": 148
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 5 - missionary_texture0_layer3.png",
+            "Layer": 15,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinTorsoUpper",
+                    "RectInt": {
+                        "x": 41,
+                        "y": 496,
+                        "width": 321,
+                        "height": 313
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinTorsoLower",
+                    "RectInt": {
+                        "x": 6,
+                        "y": 195,
+                        "width": 381,
+                        "height": 288
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 438,
+                        "y": 12,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaPenetratedBack",
+                    "RectInt": {
+                        "x": 396,
+                        "y": 328,
+                        "width": 181,
+                        "height": 176
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaR",
+                    "RectInt": {
+                        "x": 396,
+                        "y": 514,
+                        "width": 94,
+                        "height": 163
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobL",
+                    "RectInt": {
+                        "x": 500,
+                        "y": 514,
+                        "width": 180,
+                        "height": 160
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobR",
+                    "RectInt": {
+                        "x": 587,
+                        "y": 328,
+                        "width": 185,
+                        "height": 154
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageBack",
+                    "RectInt": {
+                        "x": 25,
+                        "y": 19,
+                        "width": 257,
+                        "height": 152
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinVaginaPenetratedFront",
+                    "RectInt": {
+                        "x": 500,
+                        "y": 684,
+                        "width": 179,
+                        "height": 148
+                    },
+                    "ColorIndex": 22,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}
