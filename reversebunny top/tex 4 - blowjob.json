@@ -1,0 +1,761 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 4 - blowjob_texturec_layer0.png",
+            "Layer": 5,
+            "PackedDrawables": [
+                
+                {
+                    "Name": "SkinShoulderR",
+                    "RectInt": {
+                        "x": 254,
+                        "y": 0,
+                        "width": 253,
+                        "height": 282
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulderL",
+                    "RectInt": {
+                        "x": 1,
+                        "y": 0,
+                        "width": 251,
+                        "height": 284
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                
+
+                {
+                    "Name": "AttachArmLHandBack",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 281,
+                        "width": 234,
+                        "height": 220
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 511,
+                        "width": 224,
+                        "height": 190
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+
+                {
+                    "Name": "AttachArmRHandBackR",
+                    "RectInt": {
+                        "x": 266,
+                        "y": 281,
+                        "width": 234,
+                        "height": 220
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHandR",
+                    "RectInt": {
+                        "x": 276,
+                        "y": 511,
+                        "width": 222,
+                        "height": 191
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+
+
+                {
+                    "Name": "SkinBodyBack",
+                    "RectInt": {
+                        "x": 509,
+                        "y": 639,
+                        "width": 522,
+                        "height": 469
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 535,
+                        "y": 244,
+                        "width": 470,
+                        "height": 396
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinChest",
+                    "RectInt": {
+                        "x": 508,
+                        "y": 1,
+                        "width": 518,
+                        "height": 244
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 157,
+                        "y": 931,
+                        "width": 276,
+                        "height": 270
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmL",
+                    "RectInt": {
+                        "x": 289,
+                        "y": 700,
+                        "width": 196,
+                        "height": 232
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmR",
+                    "RectInt": {
+                        "x": 22,
+                        "y": 700,
+                        "width": 196,
+                        "height": 232
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+                
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+"TextureName": "greatest texture ever created.png",
+            "Layer": 5,
+            "PackedDrawables": [
+                     {
+                    "Name": "SkinBreastL",
+                    "RectInt": {
+                        "x": 263,
+                        "y": 0,
+                        "width": 264,
+                        "height": 330
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBreastR",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 264,
+                        "height": 330
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+
+
+            },
+             {
+            "TextureName": "tex 4 - blowjob_texturec_layer1.png",
+            "Layer": 6,
+            "PackedDrawables": [
+                
+                {
+                    "Name": "SkinShoulderR",
+                    "RectInt": {
+                        "x": 254,
+                        "y": 1,
+                        "width": 253,
+                        "height": 282
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulderL",
+                    "RectInt": {
+                        "x": 1,
+                        "y": 0,
+                        "width": 251,
+                        "height": 284
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                
+
+                {
+                    "Name": "AttachArmLHandBack",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 281,
+                        "width": 234,
+                        "height": 220
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 511,
+                        "width": 224,
+                        "height": 190
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+
+                {
+                    "Name": "AttachArmRHandBackR",
+                    "RectInt": {
+                        "x": 266,
+                        "y": 281,
+                        "width": 234,
+                        "height": 220
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHandR",
+                    "RectInt": {
+                        "x": 276,
+                        "y": 511,
+                        "width": 222,
+                        "height": 191
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+
+
+                {
+                    "Name": "SkinBodyBack",
+                    "RectInt": {
+                        "x": 509,
+                        "y": 639,
+                        "width": 522,
+                        "height": 469
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 535,
+                        "y": 244,
+                        "width": 470,
+                        "height": 396
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinChest",
+                    "RectInt": {
+                        "x": 508,
+                        "y": 1,
+                        "width": 518,
+                        "height": 244
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 157,
+                        "y": 931,
+                        "width": 276,
+                        "height": 270
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmL",
+                    "RectInt": {
+                        "x": 289,
+                        "y": 700,
+                        "width": 196,
+                        "height": 232
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmR",
+                    "RectInt": {
+                        "x": 22,
+                        "y": 700,
+                        "width": 196,
+                        "height": 232
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+                
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+"TextureName": "greatest texture ever created1.png",
+            "Layer": 6,
+            "PackedDrawables": [
+                     {
+                    "Name": "SkinBreastL",
+                    "RectInt": {
+                        "x": 263,
+                        "y": 0,
+                        "width": 264,
+                        "height": 330
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBreastR",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 264,
+                        "height": 330
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+
+
+            },
+             {
+            "TextureName": "tex 4 - blowjob_texturec_layer2.png",
+            "Layer": 7,
+            "PackedDrawables": [
+                
+                {
+                    "Name": "SkinShoulderR",
+                    "RectInt": {
+                        "x": 254,
+                        "y": 0,
+                        "width": 253,
+                        "height": 282
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulderL",
+                    "RectInt": {
+                        "x": 1,
+                        "y": 0,
+                        "width": 251,
+                        "height": 284
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                
+
+                {
+                    "Name": "AttachArmLHandBack",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 281,
+                        "width": 234,
+                        "height": 220
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 511,
+                        "width": 224,
+                        "height": 190
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+
+                {
+                    "Name": "AttachArmRHandBackR",
+                    "RectInt": {
+                        "x": 266,
+                        "y": 281,
+                        "width": 234,
+                        "height": 220
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHandR",
+                    "RectInt": {
+                        "x": 276,
+                        "y": 511,
+                        "width": 222,
+                        "height": 191
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+
+
+                {
+                    "Name": "SkinBodyBack",
+                    "RectInt": {
+                        "x": 509,
+                        "y": 639,
+                        "width": 522,
+                        "height": 469
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 535,
+                        "y": 244,
+                        "width": 470,
+                        "height": 396
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinChest",
+                    "RectInt": {
+                        "x": 508,
+                        "y": 1,
+                        "width": 518,
+                        "height": 244
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 157,
+                        "y": 931,
+                        "width": 276,
+                        "height": 270
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmL",
+                    "RectInt": {
+                        "x": 289,
+                        "y": 700,
+                        "width": 196,
+                        "height": 232
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmR",
+                    "RectInt": {
+                        "x": 22,
+                        "y": 700,
+                        "width": 196,
+                        "height": 232
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+                
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+"TextureName": "greatest texture ever created2.png",
+            "Layer": 7,
+            "PackedDrawables": [
+                     {
+                    "Name": "SkinBreastL",
+                    "RectInt": {
+                        "x": 263,
+                        "y": 0,
+                        "width": 264,
+                        "height": 330
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBreastR",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 264,
+                        "height": 330
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+
+
+            },
+            {
+            "TextureName": "tex 4 - blowjob_texturec_layer3.png",
+            "Layer": 8,
+            "PackedDrawables": [
+                
+                {
+                    "Name": "SkinShoulderR",
+                    "RectInt": {
+                        "x": 254,
+                        "y": 0,
+                        "width": 253,
+                        "height": 282
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulderL",
+                    "RectInt": {
+                        "x": 1,
+                        "y": 0,
+                        "width": 251,
+                        "height": 284
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                
+
+                {
+                    "Name": "AttachArmLHandBack",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 281,
+                        "width": 234,
+                        "height": 220
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 511,
+                        "width": 224,
+                        "height": 190
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+
+                {
+                    "Name": "AttachArmRHandBackR",
+                    "RectInt": {
+                        "x": 266,
+                        "y": 281,
+                        "width": 234,
+                        "height": 220
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHandR",
+                    "RectInt": {
+                        "x": 276,
+                        "y": 511,
+                        "width": 222,
+                        "height": 191
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+
+
+                {
+                    "Name": "SkinBodyBack",
+                    "RectInt": {
+                        "x": 509,
+                        "y": 639,
+                        "width": 522,
+                        "height": 469
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBodyFront",
+                    "RectInt": {
+                        "x": 535,
+                        "y": 244,
+                        "width": 470,
+                        "height": 396
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinChest",
+                    "RectInt": {
+                        "x": 508,
+                        "y": 1,
+                        "width": 518,
+                        "height": 244
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 157,
+                        "y": 931,
+                        "width": 276,
+                        "height": 270
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmL",
+                    "RectInt": {
+                        "x": 289,
+                        "y": 700,
+                        "width": 196,
+                        "height": 232
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmR",
+                    "RectInt": {
+                        "x": 22,
+                        "y": 700,
+                        "width": 196,
+                        "height": 232
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+                
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+
+    ]
+}

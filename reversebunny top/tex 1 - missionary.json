@@ -1,0 +1,1003 @@
+{
+    "PackedTextures": [
+       {
+            "TextureName": "tex 1 - missionary_texturec_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                
+                {
+                    "Name": "Barcode",
+                    "RectInt": {
+                        "x": 397,
+                        "y": 592,
+                        "width": 63,
+                        "height": 48
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 189,
+                        "width": 165,
+                        "height": 296
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 220,
+                        "height": 190
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand2",
+                    "RectInt": {
+                        "x": 218,
+                        "y": 358,
+                        "width": 129,
+                        "height": 176
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand1",
+                    "RectInt": {
+                        "x": 219,
+                        "y": 0,
+                        "width": 126,
+                        "height": 158
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLForearm",
+                    "RectInt": {
+                        "x": 830,
+                        "y": 197,
+                        "width": 155,
+                        "height": 320
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 803,
+                        "y": 0,
+                        "width": 236,
+                        "height": 198
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand2",
+                    "RectInt": {
+                        "x": 708,
+                        "y": 362,
+                        "width": 123,
+                        "height": 180
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand1",
+                    "RectInt": {
+                        "x": 682,
+                        "y": 0,
+                        "width": 122,
+                        "height": 162
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHandHandholdingAbove",
+                    "RectInt": {
+                        "x": 221,
+                        "y": 533,
+                        "width": 146,
+                        "height": 169
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHandHandholdingAbove",
+                    "RectInt": {
+                        "x": 830,
+                        "y": 516,
+                        "width": 148,
+                        "height": 169
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }     
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+         {
+            "TextureName": "tex 1 - missionary_texturec_layer0.png",
+            "Layer": 5,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinShoulderR",
+                    "RectInt": {
+                        "x": 164,
+                        "y": 189,
+                        "width": 183,
+                        "height": 170
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulderL",
+                    "RectInt": {
+                        "x": 669,
+                        "y": 197,
+                        "width": 156,
+                        "height": 166
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmR",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 484,
+                        "width": 222,
+                        "height": 176
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmL",
+                    "RectInt": {
+                        "x": 531,
+                        "y": 438,
+                        "width": 178,
+                        "height": 174
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 346,
+                        "y": 0,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageBack",
+                    "RectInt": {
+                        "x": 346,
+                        "y": 287,
+                        "width": 257,
+                        "height": 152
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },                                
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 346,
+                        "y": 438,
+                        "width": 186,
+                        "height": 135
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 189,
+                        "width": 165,
+                        "height": 296
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 220,
+                        "height": 190
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand2",
+                    "RectInt": {
+                        "x": 218,
+                        "y": 358,
+                        "width": 129,
+                        "height": 176
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand1",
+                    "RectInt": {
+                        "x": 219,
+                        "y": 0,
+                        "width": 126,
+                        "height": 158
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLForearm",
+                    "RectInt": {
+                        "x": 830,
+                        "y": 197,
+                        "width": 155,
+                        "height": 320
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 803,
+                        "y": 0,
+                        "width": 236,
+                        "height": 198
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand2",
+                    "RectInt": {
+                        "x": 708,
+                        "y": 362,
+                        "width": 123,
+                        "height": 180
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand1",
+                    "RectInt": {
+                        "x": 682,
+                        "y": 0,
+                        "width": 122,
+                        "height": 162
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHandHandholdingAbove",
+                    "RectInt": {
+                        "x": 221,
+                        "y": 533,
+                        "width": 146,
+                        "height": 169
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHandHandholdingAbove",
+                    "RectInt": {
+                        "x": 830,
+                        "y": 516,
+                        "width": 148,
+                        "height": 169
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }     
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+{
+            "TextureName": "tex 1 - missionary_texturec_layer1.png",
+            "Layer": 6,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinShoulderR",
+                    "RectInt": {
+                        "x": 164,
+                        "y": 189,
+                        "width": 183,
+                        "height": 170
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulderL",
+                    "RectInt": {
+                        "x": 669,
+                        "y": 197,
+                        "width": 156,
+                        "height": 166
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmR",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 484,
+                        "width": 222,
+                        "height": 176
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmL",
+                    "RectInt": {
+                        "x": 531,
+                        "y": 438,
+                        "width": 178,
+                        "height": 174
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 346,
+                        "y": 0,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageBack",
+                    "RectInt": {
+                        "x": 346,
+                        "y": 287,
+                        "width": 257,
+                        "height": 152
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },                                
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 346,
+                        "y": 438,
+                        "width": 186,
+                        "height": 135
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 189,
+                        "width": 165,
+                        "height": 296
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 220,
+                        "height": 190
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand2",
+                    "RectInt": {
+                        "x": 218,
+                        "y": 358,
+                        "width": 129,
+                        "height": 176
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand1",
+                    "RectInt": {
+                        "x": 219,
+                        "y": 0,
+                        "width": 126,
+                        "height": 158
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLForearm",
+                    "RectInt": {
+                        "x": 830,
+                        "y": 197,
+                        "width": 155,
+                        "height": 320
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 803,
+                        "y": 0,
+                        "width": 236,
+                        "height": 198
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand2",
+                    "RectInt": {
+                        "x": 708,
+                        "y": 362,
+                        "width": 123,
+                        "height": 180
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand1",
+                    "RectInt": {
+                        "x": 682,
+                        "y": 0,
+                        "width": 122,
+                        "height": 162
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHandHandholdingAbove",
+                    "RectInt": {
+                        "x": 221,
+                        "y": 533,
+                        "width": 146,
+                        "height": 169
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHandHandholdingAbove",
+                    "RectInt": {
+                        "x": 830,
+                        "y": 516,
+                        "width": 148,
+                        "height": 169
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }     
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 1 - missionary_texturec_layer2.png",
+            "Layer": 7,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinShoulderR",
+                    "RectInt": {
+                        "x": 164,
+                        "y": 189,
+                        "width": 183,
+                        "height": 170
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulderL",
+                    "RectInt": {
+                        "x": 669,
+                        "y": 197,
+                        "width": 156,
+                        "height": 166
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmR",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 484,
+                        "width": 222,
+                        "height": 176
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmL",
+                    "RectInt": {
+                        "x": 531,
+                        "y": 438,
+                        "width": 178,
+                        "height": 174
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 346,
+                        "y": 0,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageBack",
+                    "RectInt": {
+                        "x": 346,
+                        "y": 287,
+                        "width": 257,
+                        "height": 152
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },                                
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 346,
+                        "y": 438,
+                        "width": 186,
+                        "height": 135
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 189,
+                        "width": 165,
+                        "height": 296
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 220,
+                        "height": 190
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand2",
+                    "RectInt": {
+                        "x": 218,
+                        "y": 358,
+                        "width": 129,
+                        "height": 176
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand1",
+                    "RectInt": {
+                        "x": 219,
+                        "y": 0,
+                        "width": 126,
+                        "height": 158
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLForearm",
+                    "RectInt": {
+                        "x": 830,
+                        "y": 197,
+                        "width": 155,
+                        "height": 320
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 803,
+                        "y": 0,
+                        "width": 236,
+                        "height": 198
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand2",
+                    "RectInt": {
+                        "x": 708,
+                        "y": 362,
+                        "width": 123,
+                        "height": 180
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand1",
+                    "RectInt": {
+                        "x": 682,
+                        "y": 0,
+                        "width": 122,
+                        "height": 162
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHandHandholdingAbove",
+                    "RectInt": {
+                        "x": 221,
+                        "y": 533,
+                        "width": 146,
+                        "height": 169
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHandHandholdingAbove",
+                    "RectInt": {
+                        "x": 830,
+                        "y": 516,
+                        "width": 148,
+                        "height": 169
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }     
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 1 - missionary_texturec_layer3.png",
+            "Layer": 8,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinShoulderR",
+                    "RectInt": {
+                        "x": 164,
+                        "y": 189,
+                        "width": 183,
+                        "height": 170
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinShoulderL",
+                    "RectInt": {
+                        "x": 669,
+                        "y": 197,
+                        "width": 156,
+                        "height": 166
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmR",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 484,
+                        "width": 222,
+                        "height": 176
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmL",
+                    "RectInt": {
+                        "x": 531,
+                        "y": 438,
+                        "width": 178,
+                        "height": 174
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageFront",
+                    "RectInt": {
+                        "x": 346,
+                        "y": 0,
+                        "width": 334,
+                        "height": 288
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinRibcageBack",
+                    "RectInt": {
+                        "x": 346,
+                        "y": 287,
+                        "width": 257,
+                        "height": 152
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },                                
+                {
+                    "Name": "SkinNeck",
+                    "RectInt": {
+                        "x": 346,
+                        "y": 438,
+                        "width": 186,
+                        "height": 135
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 189,
+                        "width": 165,
+                        "height": 296
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 220,
+                        "height": 190
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand2",
+                    "RectInt": {
+                        "x": 218,
+                        "y": 358,
+                        "width": 129,
+                        "height": 176
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHand1",
+                    "RectInt": {
+                        "x": 219,
+                        "y": 0,
+                        "width": 126,
+                        "height": 158
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLForearm",
+                    "RectInt": {
+                        "x": 830,
+                        "y": 197,
+                        "width": 155,
+                        "height": 320
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 803,
+                        "y": 0,
+                        "width": 236,
+                        "height": 198
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand2",
+                    "RectInt": {
+                        "x": 708,
+                        "y": 362,
+                        "width": 123,
+                        "height": 180
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHand1",
+                    "RectInt": {
+                        "x": 682,
+                        "y": 0,
+                        "width": 122,
+                        "height": 162
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmRHandHandholdingAbove",
+                    "RectInt": {
+                        "x": 221,
+                        "y": 533,
+                        "width": 146,
+                        "height": 169
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmLHandHandholdingAbove",
+                    "RectInt": {
+                        "x": 830,
+                        "y": 516,
+                        "width": 148,
+                        "height": 169
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }     
+            ],
+            "Targets": [
+                "missionary"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

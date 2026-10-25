@@ -1,0 +1,215 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 4 - blowjob_texturec_layer0.png",
+            "Layer": 9,
+            "PackedDrawables": [
+                
+                
+
+                {
+                    "Name": "AttachArmLHandBack",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 281,
+                        "width": 234,
+                        "height": 220
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 511,
+                        "width": 224,
+                        "height": 190
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+
+               
+                {
+                    "Name": "SkinArmL",
+                    "RectInt": {
+                        "x": 289,
+                        "y": 700,
+                        "width": 196,
+                        "height": 232
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+                
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+             {
+            "TextureName": "tex 4 - blowjob_texturec_layer1.png",
+            "Layer": 10,
+            "PackedDrawables": [
+                
+                
+             
+
+                {
+                    "Name": "AttachArmLHandBack",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 281,
+                        "width": 234,
+                        "height": 220
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 511,
+                        "width": 224,
+                        "height": 190
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+
+               
+                {
+                    "Name": "SkinArmL",
+                    "RectInt": {
+                        "x": 289,
+                        "y": 700,
+                        "width": 196,
+                        "height": 232
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+                
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        
+             {
+            "TextureName": "tex 4 - blowjob_texturec_layer2.png",
+            "Layer": 11,
+            "PackedDrawables": [
+                
+               
+                
+
+                {
+                    "Name": "AttachArmLHandBack",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 281,
+                        "width": 234,
+                        "height": 220
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 511,
+                        "width": 224,
+                        "height": 190
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinArmL",
+                    "RectInt": {
+                        "x": 289,
+                        "y": 700,
+                        "width": 196,
+                        "height": 232
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+                
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+            {
+            "TextureName": "tex 4 - blowjob_texturec_layer3.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                
+                
+               
+                
+
+                {
+                    "Name": "AttachArmLHandBack",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 281,
+                        "width": 234,
+                        "height": 220
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmL",
+                    "RectInt": {
+                        "x": 8,
+                        "y": 511,
+                        "width": 224,
+                        "height": 190
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+
+                {
+                    "Name": "SkinArmL",
+                    "RectInt": {
+                        "x": 289,
+                        "y": 700,
+                        "width": 196,
+                        "height": 232
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+                
+            ],
+            "Targets": [
+                "blowjob"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+
+    ]
+}

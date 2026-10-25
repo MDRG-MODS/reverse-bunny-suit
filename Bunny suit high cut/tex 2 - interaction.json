@@ -1,0 +1,127 @@
+{
+    "PackedTextures": [
+         {
+            "TextureName": "tex 2 - interaction_texture nip.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "NippleL2",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 72,
+                        "height": 91
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "NippleR2",
+                    "RectInt": {
+                        "x": 87,
+                        "y": 5,
+                        "width": 70,
+                        "height": 85
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        
+        {
+            "TextureName": "tex 2 - interaction_texture0_layer0.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 682,
+                        "height": 366
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - interaction_texture0_layer1.png",
+            "Layer": 13,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 682,
+                        "height": 366
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - interaction_texture0_layer2.png",
+            "Layer": 14,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 682,
+                        "height": 366
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 2 - interaction_texture0_layer3.png",
+            "Layer": 14,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 682,
+                        "height": 366
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "interaction"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

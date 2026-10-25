@@ -1,0 +1,310 @@
+{
+    "TargetModVersion": "1.2.0",
+    "TargetModGuid": {
+        "serializedGuid": "70dbddab-fb7d-4dc6-b9bc-5374b32c3728"
+    },
+    "LocaleKeyCode": "ru",
+    "ShortNotes": "Перевод: 2DTL",
+    "TranslationRows": [
+        {
+            "Key": "Item_0_Name",
+            "DefaultString": "Reversebunny top",
+            "TranslatedString": "Верхняя часть костюма ревёрс-банни"
+        },
+        {
+            "Key": "Item_0_Description",
+            "DefaultString": "Its shiny",
+            "TranslatedString": "Она блестит."
+        },
+        {
+            "Key": "Item_0_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Основной цвет"
+        },
+        {
+            "Key": "Item_0_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Тень/отражение"
+        },
+        {
+            "Key": "Item_0_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Контур"
+        },
+        {
+            "Key": "Item_1_Name",
+            "DefaultString": "Reverse Bunny left hiphigh",
+            "TranslatedString": "Высокий левый чулок костюма ревёрс-банни"
+        },
+        {
+            "Key": "Item_1_Description",
+            "DefaultString": "Its shiny",
+            "TranslatedString": "Он блестит."
+        },
+        {
+            "Key": "Item_1_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Основной цвет"
+        },
+        {
+            "Key": "Item_1_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Тень/отражение"
+        },
+        {
+            "Key": "Item_1_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Контур"
+        },
+        {
+            "Key": "Item_2_Name",
+            "DefaultString": "Reverse Bunny right hiphigh",
+            "TranslatedString": "Высокий правый чулок костюма ревёрс-банни"
+        },
+        {
+            "Key": "Item_2_Description",
+            "DefaultString": "Its shiny.",
+            "TranslatedString": "Он блестит."
+        },
+        {
+            "Key": "Item_2_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Основной цвет"
+        },
+        {
+            "Key": "Item_2_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Тень/отражение"
+        },
+        {
+            "Key": "Item_2_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Контур"
+        },
+        {
+            "Key": "Item_3_Name",
+            "DefaultString": "Long latex glove left",
+            "TranslatedString": "Длинная левая латексная перчатка"
+        },
+        {
+            "Key": "Item_3_Description",
+            "DefaultString": "Its shiny",
+            "TranslatedString": "Она блестит."
+        },
+        {
+            "Key": "Item_3_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Основной цвет"
+        },
+        {
+            "Key": "Item_3_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Тень/отражение"
+        },
+        {
+            "Key": "Item_3_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Контур"
+        },
+        {
+            "Key": "Item_4_Name",
+            "DefaultString": "Long latex glove right",
+            "TranslatedString": "Длинная правая латексная перчатка"
+        },
+        {
+            "Key": "Item_4_Description",
+            "DefaultString": "Its shiny",
+            "TranslatedString": "Она блестит."
+        },
+        {
+            "Key": "Item_4_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Основной цвет"
+        },
+        {
+            "Key": "Item_4_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Тень/отражение"
+        },
+        {
+            "Key": "Item_4_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Контур"
+        },
+        {
+            "Key": "Item_5_Name",
+            "DefaultString": "Long latex sock left",
+            "TranslatedString": "Левый латексный чулок"
+        },
+        {
+            "Key": "Item_5_Description",
+            "DefaultString": "Its shiny",
+            "TranslatedString": "Он блестит."
+        },
+        {
+            "Key": "Item_5_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Основной цвет"
+        },
+        {
+            "Key": "Item_5_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Тень/отражение"
+        },
+        {
+            "Key": "Item_5_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Контур"
+        },
+        {
+            "Key": "Item_6_Name",
+            "DefaultString": "Long latex sock right",
+            "TranslatedString": "Правый латексный чулок"
+        },
+        {
+            "Key": "Item_6_Description",
+            "DefaultString": "Its shiny.",
+            "TranslatedString": "Он блестит."
+        },
+        {
+            "Key": "Item_6_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Основной цвет"
+        },
+        {
+            "Key": "Item_6_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Тень/отражение"
+        },
+        {
+            "Key": "Item_6_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Контур"
+        },
+        {
+            "Key": "Item_7_Name",
+            "DefaultString": "Bunny suit high cut",
+            "TranslatedString": "Костюм зайчика с высоким вырезом"
+        },
+        {
+            "Key": "Item_7_Description",
+            "DefaultString": "Skimpier version of latex bunny suit",
+            "TranslatedString": "Более откровенная версия латексного костюма зайчика."
+        },
+        {
+            "Key": "Item_7_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Основной цвет"
+        },
+        {
+            "Key": "Item_7_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Тень/отражение"
+        },
+        {
+            "Key": "Item_7_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Контур"
+        },
+        {
+            "Key": "Item_8_Name",
+            "DefaultString": "Bunny suit",
+            "TranslatedString": "Костюм зайчика"
+        },
+        {
+            "Key": "Item_8_Description",
+            "DefaultString": "Clasic latex bunny suit",
+            "TranslatedString": "Классический латексный костюм зайчика."
+        },
+        {
+            "Key": "Item_8_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Основной цвет"
+        },
+        {
+            "Key": "Item_8_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Тень/отражение"
+        },
+        {
+            "Key": "Item_8_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Контур"
+        },
+        {
+            "Key": "Item_9_Name",
+            "DefaultString": "Reverse bunny suit",
+            "TranslatedString": "Костюм ревёрс-банни (набор)"
+        },
+        {
+            "Key": "Item_9_Description",
+            "DefaultString": "full suit<color=#00FF00>\nThis item is still in its packaging. You have to unpack it first!</color>",
+            "TranslatedString": "Полный комплект костюма.<color=#00FF00>\nЭтот предмет всё ещё в упаковке. Сначала его нужно распаковать!</color>"
+        },
+        {
+            "Key": "Item_9_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Основной цвет"
+        },
+        {
+            "Key": "Item_9_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Тень/отражение"
+        },
+        {
+            "Key": "Item_9_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Контур"
+        },
+        {
+            "Key": "Item_10_Name",
+            "DefaultString": "Bunny suit ",
+            "TranslatedString": "Костюм зайчика (набор)"
+        },
+        {
+            "Key": "Item_10_Description",
+            "DefaultString": "full suit<color=#00FF00>\nThis item is still in its packaging. You have to unpack it first!</color>",
+            "TranslatedString": "Полный комплект костюма.<color=#00FF00>\nЭтот предмет всё ещё в упаковке. Сначала его нужно распаковать!</color>"
+        },
+        {
+            "Key": "Item_10_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Основной цвет"
+        },
+        {
+            "Key": "Item_10_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Тень/отражение"
+        },
+        {
+            "Key": "Item_10_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Контур"
+        },
+        {
+            "Key": "Item_11_Name",
+            "DefaultString": "Classic Bunny suit ",
+            "TranslatedString": "Классический костюм зайчика (набор)"
+        },
+        {
+            "Key": "Item_11_Description",
+            "DefaultString": "full suit<color=#00FF00>\nThis item is still in its packaging. You have to unpack it first!</color>",
+            "TranslatedString": "Полный комплект костюма.<color=#00FF00>\nЭтот предмет всё ещё в упаковке. Сначала его нужно распаковать!</color>"
+        },
+        {
+            "Key": "Item_11_Color+0",
+            "DefaultString": "Main color",
+            "TranslatedString": "Основной цвет"
+        },
+        {
+            "Key": "Item_11_Color+1",
+            "DefaultString": "shadow/reflection",
+            "TranslatedString": "Тень/отражение"
+        },
+        {
+            "Key": "Item_11_Color+2",
+            "DefaultString": "outline",
+            "TranslatedString": "Контур"
+        }
+    ]
+}

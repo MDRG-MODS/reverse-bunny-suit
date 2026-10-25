@@ -1,0 +1,230 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 5 - cowgirl_texturec_layer0.png",
+            "Layer": 0,
+            "PackedDrawables": [
+        
+        
+                 {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 980,
+                        "y": 1,
+                        "width": 168,
+                        "height": 388
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 816,
+                        "y": 1,
+                        "width": 165,
+                        "height": 266
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+                 ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },       
+        
+        
+        {
+            "TextureName": "tex 5 - cowgirl_texturec_layer0.png",
+            "Layer": 9,
+            "PackedDrawables": [
+                
+                 {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 980,
+                        "y": 1,
+                        "width": 168,
+                        "height": 388
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 816,
+                        "y": 1,
+                        "width": 165,
+                        "height": 266
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }, 
+                {
+                    "Name": "SkinUpperArmR",
+                    "RectInt": {
+                        "x": 440,
+                        "y": 392,
+                        "width": 235,
+                        "height": 362
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 5 - cowgirl_texturec_layer1.png",
+            "Layer": 10,
+            "PackedDrawables": [
+               
+                 {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 980,
+                        "y": 1,
+                        "width": 168,
+                        "height": 388
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 816,
+                        "y": 1,
+                        "width": 165,
+                        "height": 266
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }, 
+                {
+                    "Name": "SkinUpperArmR",
+                    "RectInt": {
+                        "x": 440,
+                        "y": 392,
+                        "width": 235,
+                        "height": 362
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 5 - cowgirl_texturec_layer2.png",
+            "Layer": 11,
+            "PackedDrawables": [
+                
+                 {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 980,
+                        "y": 1,
+                        "width": 168,
+                        "height": 388
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 816,
+                        "y": 1,
+                        "width": 165,
+                        "height": 266
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }, 
+                {
+                    "Name": "SkinUpperArmR",
+                    "RectInt": {
+                        "x": 440,
+                        "y": 392,
+                        "width": 235,
+                        "height": 362
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 5 - cowgirl_texturec_layer3.png",
+            "Layer": 12,
+            "PackedDrawables": [
+               
+                 {
+                    "Name": "AttachArmRForearm",
+                    "RectInt": {
+                        "x": 980,
+                        "y": 1,
+                        "width": 168,
+                        "height": 388
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "AttachArmR",
+                    "RectInt": {
+                        "x": 816,
+                        "y": 1,
+                        "width": 165,
+                        "height": 266
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }, 
+                {
+                    "Name": "SkinUpperArmR",
+                    "RectInt": {
+                        "x": 440,
+                        "y": 392,
+                        "width": 235,
+                        "height": 362
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}

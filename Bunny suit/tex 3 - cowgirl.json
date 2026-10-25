@@ -1,0 +1,141 @@
+{
+    "PackedTextures": [
+        {
+            "TextureName": "tex 3 - cowgirl_texture nip.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "NippleL",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 126,
+                        "height": 118
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                },
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 133,
+                        "width": 126,
+                        "height": 118
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 3 - cowgirl_texture0_layer0.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinThighR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 540,
+                        "height": 506
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPalvisTop",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 521,
+                        "width": 442,
+                        "height": 218
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 3 - cowgirl_texture0_layer1.png",
+            "Layer": 13,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinThighR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 540,
+                        "height": 506
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPalvisTop",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 521,
+                        "width": 442,
+                        "height": 218
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 3 - cowgirl_texture0_layer2.png",
+            "Layer": 14,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinThighR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 540,
+                        "height": 506
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPalvisTop",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 521,
+                        "width": 442,
+                        "height": 218
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "cowgirl"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+        
+    ]
+}

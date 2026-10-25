@@ -1,0 +1,306 @@
+{
+    "PackedTextures": [
+           {
+            "TextureName": "tex 4 - doggy_texture nip.png",
+            "Layer": 0,
+            "PackedDrawables": [
+                {
+                    "Name": "NippleR",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 59,
+                        "height": 56
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": false
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 4 - doggy_texture0_layer0.png",
+            "Layer": 12,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 240,
+                        "height": 267
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistLower",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 5,
+                        "width": 214,
+                        "height": 190
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 205,
+                        "width": 160,
+                        "height": 206
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistUpper",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 282,
+                        "width": 193,
+                        "height": 187
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobFront",
+                    "RectInt": {
+                        "x": 425,
+                        "y": 205,
+                        "width": 148,
+                        "height": 182
+                    },
+                    "ColorIndex": 0,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 4 - doggy_texture0_layer1.png",
+            "Layer": 13,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 240,
+                        "height": 267
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistLower",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 5,
+                        "width": 214,
+                        "height": 190
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 205,
+                        "width": 160,
+                        "height": 206
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistUpper",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 282,
+                        "width": 193,
+                        "height": 187
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobFront",
+                    "RectInt": {
+                        "x": 425,
+                        "y": 205,
+                        "width": 148,
+                        "height": 182
+                    },
+                    "ColorIndex": 1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 4 - doggy_texture0_layer2.png",
+            "Layer": 14,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 240,
+                        "height": 267
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistLower",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 5,
+                        "width": 214,
+                        "height": 190
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 205,
+                        "width": 160,
+                        "height": 206
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistUpper",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 282,
+                        "width": 193,
+                        "height": 187
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobFront",
+                    "RectInt": {
+                        "x": 425,
+                        "y": 205,
+                        "width": 148,
+                        "height": 182
+                    },
+                    "ColorIndex": -1,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        },
+        {
+            "TextureName": "tex 4 - doggy_texture0_layer3.png",
+            "Layer": 15,
+            "PackedDrawables": [
+                {
+                    "Name": "SkinRibcage",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 5,
+                        "width": 240,
+                        "height": 267
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistLower",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 5,
+                        "width": 214,
+                        "height": 190
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinPelvis",
+                    "RectInt": {
+                        "x": 255,
+                        "y": 205,
+                        "width": 160,
+                        "height": 206
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinWaistUpper",
+                    "RectInt": {
+                        "x": 5,
+                        "y": 282,
+                        "width": 193,
+                        "height": 187
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                },
+                {
+                    "Name": "SkinBoobFront",
+                    "RectInt": {
+                        "x": 425,
+                        "y": 205,
+                        "width": 148,
+                        "height": 182
+                    },
+                    "ColorIndex": 2,
+                    "DrawableType": 0,
+                    "BypassColorScaler": true
+                }
+            ],
+            "Targets": [
+                "doggy"
+            ],
+            "DontIncludeVanillaLayers": false
+        }
+    ]
+}
